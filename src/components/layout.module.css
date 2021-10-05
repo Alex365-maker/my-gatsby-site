@@ -2,9 +2,6 @@
     margin: auto;
     max-width: 500px;
     font-family: sans-serif;
-    border: 5px blue;
-    border-style: dashed solid;
-    border-radius: 15px;
   }
 
   .heading {
